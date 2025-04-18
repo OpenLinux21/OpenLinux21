@@ -16,7 +16,7 @@
 
 ---
 
-### 📈 我的 GitHub 成就
+### 📈 My GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=OpenLinux21&theme=onedark&row=1&column=6" alt="Trophy" />
@@ -24,7 +24,7 @@
 
 ---
 
-### 👁️ 访客数据
+### 👁️ Visitor Statistics
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/OpenLinux21/count.svg" alt="Visitor Count" />
@@ -36,7 +36,7 @@
 
 ---
 
-### 😄 程序员的乐趣
+### 😄 Developer Fun
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Random Dev Joke" />
@@ -49,10 +49,10 @@
 ---
 
 <details>
-  <summary>⚙️ 更多关于我</summary>
+  <summary>⚙️ More About Me</summary>
 
-- 💼 工作内容：后端开发、系统运维、自动化脚本  
-- 🎓 教育背景：计算机科学专业  
-- 🏆 兴趣爱好：开源贡献、编程挑战、极限运动  
+- 💼 Role: Backend Development, System Administration, Automation Scripting  
+- 🎓 Education: B.S. in Computer Science  
+- 🏆 Hobbies: Open Source Contribution, Coding Challenges, decompile code
 
 </details>
