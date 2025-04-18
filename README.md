@@ -34,10 +34,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=OpenLinux21.OpenLinux21" alt="Visitor Badge" />
 </p>
 
-<p align="center">
-  <img src="https://clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=UE9ENG1BS1ZFS1ZD&co=2d78ad&ct=ffffff" alt="Visitor Map" />
-</p>
-
 ---
 
 ### 😄 程序员的乐趣
@@ -57,6 +53,6 @@
 
 - 💼 工作内容：后端开发、系统运维、自动化脚本  
 - 🎓 教育背景：计算机科学专业  
-- 🏆 兴趣爱好：开源贡献、编程挑战、Java反编译  
+- 🏆 兴趣爱好：开源贡献、编程挑战、极限运动  
 
 </details>
