@@ -1,4 +1,4 @@
-# Hello 👋, Im _OpenLinux21
+# Hello 👋, I'm _OpenLinux21
 
 <p align="center">
   <a href="https://github.com/Jurredr/github-widgetbox">
@@ -16,31 +16,38 @@
 
 ---
 
+### 📈 我的 GitHub 成就
+
 <p align="center">
-  <!-- 访客计数 -->
-  ![Visitor Count](https://profile-counter.glitch.me/OpenLinux21/count.svg)
-  <!-- 访客徽章 -->
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=OpenLinux21&left_color=gray&right_color=blue)
+  <img src="https://github-profile-trophy.vercel.app/?username=OpenLinux21&theme=onedark&row=1&column=6" alt="Trophy" />
+</p>
+
+---
+
+### 👁️ 访客数据
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/OpenLinux21/count.svg" alt="Visitor Count" />
 </p>
 
 <p align="center">
-  <!-- 全球访客地图 -->
-  <img src="https://clustrmaps.com/map_v2?d=UE9ENG1BS1ZFS1ZD&cl=FFFFFF" alt="Visitor Map" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=OpenLinux21.OpenLinux21" alt="Visitor Badge" />
 </p>
 
 <p align="center">
-  <!-- GitHub Profile Trophy -->
-  [![trophy](https://github-profile-trophy.vercel.app/?username=OpenLinux21&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  <img src="https://clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=UE9ENG1BS1ZFS1ZD&co=2d78ad&ct=ffffff" alt="Visitor Map" />
+</p>
+
+---
+
+### 😄 程序员的乐趣
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Random Dev Joke" />
 </p>
 
 <p align="center">
-  <!-- 程序员笑话卡片 -->
-  ![Jokes Card](https://readme-jokes.vercel.app/api)
-</p>
-
-<p align="center">
-  <!-- 编程金句卡片 -->
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
 </p>
 
 ---
@@ -50,6 +57,6 @@
 
 - 💼 工作内容：后端开发、系统运维、自动化脚本  
 - 🎓 教育背景：计算机科学专业  
-- 🏆 兴趣爱好：开源贡献、编程挑战、Java反编译
+- 🏆 兴趣爱好：开源贡献、编程挑战、Java反编译  
 
 </details>
