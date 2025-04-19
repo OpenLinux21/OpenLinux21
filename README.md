@@ -54,5 +54,6 @@
 - 💼 Role: Backend Development, System Administration, Automation Scripting  
 - 🎓 Education: B.S. in Computer Science  
 - 🏆 Hobbies: Open Source Contribution, Coding Challenges, decompile code
+- 💵 Bitcoin: bc1q9f0v7pwxvjks7kmg6jphgwldyjemmjvq36xv69
 
 </details>
