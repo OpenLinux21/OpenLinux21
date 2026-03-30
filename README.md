@@ -1,4 +1,4 @@
-# 👋 Hey, I'm OpenLinux21
+# 👋 Hey, I'm OpenLinu𝕏21
 
 **Co-founder · Full-stack Architect · Systems Specialist**
 Building high-performance systems and scalable architectures.
