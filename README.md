@@ -1,5 +1,5 @@
 👋 Hey there, I'm OpenLinux21!
-Co-founder | Full-stack Architect | Systems Specialist Crafting robust, high-performance systems and scalable architectures from Jiangsu, China.
+Co-founder | Full-stack Architect | Systems Specialist Crafting robust, high-performance systems and scalable architectures from Taipei, Taiwan.
 
 🛠 Tech Stack & Ecosystem
 🚀 About Me
