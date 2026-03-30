@@ -12,6 +12,3 @@ I am a Full-stack Engineer with a deep-rooted passion for Backend Development an
 💼 Leadership: Building and scaling technical teams while maintaining a hands-on approach to core architecture.
 
 ⚡ Mission: Leveraging cutting-edge technology to solve real-world industrial challenges.
-
-![OpenLinux21's GitHub stats](https://github-readme-stats.vercel.app/api?username=OpenLinux21&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OpenLinux21&layout=compact&theme=radical)
