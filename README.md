@@ -1,14 +1,24 @@
-👋 Hey there, I'm OpenLinux21!
-Co-founder | Full-stack Architect | Systems Specialist Crafting robust, high-performance systems and scalable architectures from Taipei, Taiwan.
+# 👋 Hey, I'm OpenLinux21
 
-🛠 Tech Stack & Ecosystem
-🚀 About Me
-I am a Full-stack Engineer with a deep-rooted passion for Backend Development and high-performance computing. As a Co-founder, I balance technical excellence with strategic leadership, turning complex business requirements into elegant, battle-tested software.
+**Co-founder · Full-stack Architect · Systems Specialist**
+Building high-performance systems and scalable architectures.
+-------------------------------------------------------------
 
-🔭 Focus: Designing distributed systems and low-level optimizations using Rust and Go.
+## 🚀 About Me
 
-🌱 Philosophy: A firm believer in the efficiency of Linux and the power of open-source collaboration.
+Full-stack engineer focused on backend systems and high-performance computing. I turn complex business problems into reliable, production-ready software.
 
-💼 Leadership: Building and scaling technical teams while maintaining a hands-on approach to core architecture.
+* 🔭 **Focus:** Distributed systems, low-level optimization (Rust · Go)
+* 🌱 **Philosophy:** Linux-first mindset, strong advocate of open source
+* 💼 **Leadership:** Scaling teams while staying hands-on with architecture
+* ⚡ **Mission:** Apply cutting-edge tech to real-world industrial problems
 
-⚡ Mission: Leveraging cutting-edge technology to solve real-world industrial challenges.
+---
+
+## 🛠 Tech Stack
+
+## *(Expand this section with your stack badges if needed)*
+
+## 🌍 Location
+
+Taipei, Taiwan
